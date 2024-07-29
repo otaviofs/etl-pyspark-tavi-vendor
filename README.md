@@ -26,10 +26,10 @@ This project involves constructing an ETL (Extract, Transform, Load) process usi
      ```env
      HADOOP_HOME=your_hadoop_home_path
      JAVA_HOME=your_java_home_path
-     INPUT_PATH_TRIP=path/*.json
-     INPUT_PATH_VENDOR_LP=path/input/data-vendor_lookup.csv
-     INPUT_PATH_PAYMENT_LP=path/input/data-payment_lookup.csv
-     OUTPUT_DIR=path/output
+     INPUT_PATH_TRIP=your_path/*.json
+     INPUT_PATH_VENDOR_LP=your_path/input/data-vendor_lookup.csv
+     INPUT_PATH_PAYMENT_LP=your_path/input/data-payment_lookup.csv
+     OUTPUT_DIR=your_path/output
      ```
      Replace the placeholders with your actual paths.
 
