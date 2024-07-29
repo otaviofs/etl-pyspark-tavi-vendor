@@ -40,7 +40,7 @@ This project involves constructing an ETL (Extract, Transform, Load) process usi
      ```
 
 3. **Run the ETL Process:**
-   - Execute the `etl.py` script to start the ETL process:
+   - Execute the `etl_pyspark.py` script to start the ETL process:
      ```sh
-     python etl.py
+     python etl_pyspark.py
      ```
