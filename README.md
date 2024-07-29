@@ -8,20 +8,6 @@ This project involves constructing an ETL (Extract, Transform, Load) process usi
 - **Determine the week with the most taxi trips each year.**
 - **Count the number of trips made by the top vendor (with the most trips in a year) during the busiest week of that year.**
 
-## Expected Outcomes
-
-- Demonstrate understanding of programming language fundamentals and data structures.
-- Follow best programming practices, including environment setup, documentation, Object-Oriented Programming, Design Patterns, and S.O.L.I.D principles.
-- Deliver clean and simple code that is easy to understand.
-
-## Delivery
-
-The deliverable for this exercise is a .zip package containing the code and the ETL execution output in CSV format. Ensure the submission includes step-by-step instructions for running the solution. The chosen framework/technology for developing the pipeline will be considered during evaluation (preferably PySpark), and we expect adherence to good software engineering practices (code structuring, environment setup, testing, etc.).
-
-## Bonus
-
-Include comments in the code explaining the thought process behind each code block.
-
 ## Project Structure
 
 - **Data Inputs:**
